@@ -3,6 +3,14 @@ body {
   font-family: "Segoe UI", "Malgun Gothic", sans-serif;
 }
 
+#wrapper {
+  width: 640px;
+  background: white;
+  margin: 24px auto;
+  padding: 24px;
+  border-radius: 10px;
+}
+
 h2 {
   border-left: 4px solid #d9541e;
   padding-left: 8px;
@@ -30,3 +38,4 @@ td {
 #title {
   text-align: center;
 }
+
